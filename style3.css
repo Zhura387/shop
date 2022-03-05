@@ -1,0 +1,227 @@
+body{
+    margin: 0;
+    width: 1440px;
+}
+.columns{
+    background-color: #888888;
+    width: 1440px;
+    height: 141px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.block-1{
+    display: flex;
+margin-left: 79px;
+    font-size: 48px;
+    color: #fff;
+    font-family:Roboto;
+    font-weight: bold;
+}
+.name{
+    padding-left: 38px;
+}
+.block-2{
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    font-family:Roboto;
+    display: flex;
+    margin-right: 60px;
+}
+.reg{
+    padding-right: 60px;
+}
+.about-us{ 
+    padding-right: 60px;
+}
+.help{
+    padding-right: 60px;
+    text-decoration: underline;
+}
+.circle{
+    height: 32px;;
+     width: 32px;;
+    border-radius: 50%;
+    background: #F34141;
+    position :absolute;
+    margin-top: -55;
+    margin-left: 30;
+    visibility: hidden;
+    text-align: center;
+}
+.number{
+    font-size: 24px;
+    font-family:Roboto;
+    height: 32px;
+    text-align: center;
+}
+.block-3{
+    height: 44px;
+     width: 1440px;
+     border-bottom: solid #888888 1px;
+     font-size: 18px;
+     font-family:Roboto;
+     color: #888888;
+     text-align: center;
+     display: flex;
+     justify-content:space-between;
+     align-items:baseline;
+}
+.sale{
+    margin-left: 393px;
+    margin-top: 12px;
+    }
+.buy{
+    margin-top: 12px;
+margin-right: 420px;
+text-decoration: underline;
+}
+#market-place{
+display: flex;
+flex-wrap: wrap;
+}
+.kont{
+    width: 387px;
+    height: 500px;
+    float: left;
+    border: solid 1px;
+    color: #888888;
+border-radius: 30px;
+margin-left: 252px;
+margin-top: 85px;
+}
+.book1{
+    margin-top: 38px;
+    margin-left: 117px;
+}
+.garry{
+    font-size: 24px;
+    color: #888888;
+    font-family:Roboto;
+    margin-top: 29px;
+    text-align: center;
+}
+.button{
+    width: 276px;
+    height: 62px;
+    background-color: #888888;
+    color: #fff;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 56px;
+    font-size: 24px;
+    font-family:Roboto;
+    visibility: hidden;
+}
+.kont:hover .button{
+    visibility: visible;
+}
+ .kont2{
+        width: 387px;
+        height: 500px;
+        float: right;
+        border: solid 1px;
+        color: #888888;
+    border-radius: 30px;
+    margin-left: 239px;
+    margin-top: 85px;
+    }
+    .book2{
+        margin-top: 38px;
+        margin-left: 117px;
+    }
+    .yve{
+        font-size: 24px;
+        color: #888888;
+        font-family:Roboto;
+        margin-top: 29px;
+        text-align: center;
+    }
+    .button2{
+        width: 276px;
+        height: 62px;
+        background-color: #888888;
+        color: #fff;
+        border-radius: 10px;
+        margin-top: 55px;
+        margin-left: 56px;
+        font-size: 24px;
+        font-family:Roboto;
+        visibility: hidden;
+    }
+    .kont2:hover .button2{
+        visibility: visible;
+    }
+    .kont3{
+        width: 387px;
+        height: 500px;
+        float: left;
+        border: solid 1px;
+        color: #888888;
+    border-radius: 30px;
+    margin-left: 252px;
+    margin-top: 113px;
+    }
+    .book3{
+        margin-top: 38px;
+        margin-left: 117px;
+    }
+    .eldzer{
+        font-size: 24px;
+        color: #888888;
+        font-family:Roboto;
+        margin-top: 29px;
+        text-align: center;
+    }
+    .button3{
+        width: 276px;
+        height: 62px;
+        background-color: #888888;
+        color: #fff;
+        border-radius: 10px;
+        margin-top: 55px;
+        margin-left: 56px;
+        font-size: 24px;
+        font-family:Roboto;
+        visibility: hidden;
+    }
+    .kont3:hover .button3{
+        visibility: visible;
+    }
+    .kont4{
+        width: 387px;
+        height: 500px;
+        float: right;
+        border: solid 1px;
+        color: #888888;
+    border-radius: 30px;
+    margin-left: 239px;
+    margin-top: 113px;
+    }
+    .book4{
+        margin-top: 38px;
+        margin-left: 117px;
+    }
+    .gord{
+        font-size: 24px;
+        color: #888888;
+        font-family:Roboto;
+        margin-top: 29px;
+        text-align: center;
+    }
+    .button4{
+        width: 276px;
+        height: 62px;
+        background-color: #888888;
+        color: #fff;
+        border-radius: 10px;
+        margin-top: 30px;
+        margin-left: 56px;
+        font-size: 24px;
+        font-family:Roboto;
+        visibility: hidden;
+    }
+    .kont4:hover .button4{
+        visibility: visible;
+    }
